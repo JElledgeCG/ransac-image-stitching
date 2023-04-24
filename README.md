@@ -5,7 +5,7 @@ An implementation of RANSAC for stitching two images together via keypoint match
     <table width = 100%>
         <tr>
             <td width = 100%>
-                <img src="Test Image Outputs/yosemite_pano.png"></img>
+                <img src="Test Image Outputs/Yosemite Tests/yosemite_pano.png"></img>
             </td>
         </tr>
     </table>
